@@ -1,11 +1,3 @@
-# 关于作者
-大家好，我是程序员阿江-Relakkes，近期我会给大家出一些爬虫方面的教程，爬虫入门、进阶、高级都有，有需要的朋友，star仓库并持续关注本仓库的更新。
-
-- [Github万星开源自媒体爬虫仓库MediaCrawler作者](https://github.com/NanmiCoder/MediaCrawler)
-- 全栈程序员，熟悉Python、Golang、JavaScript，工作中主要用Golang。
-- 曾经主导并参与过百万级爬虫采集系统架构设计与编码
-- 爬虫是一种技术兴趣爱好，参与爬虫有一种对抗的感觉，越难越兴奋。
-
 ## 查看教程
 在线链接：https://nanmicoder.github.io/CrawlerTutorial/
 
